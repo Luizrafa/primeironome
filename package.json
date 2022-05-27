@@ -1,0 +1,24 @@
+{
+  "name": "primeiroprojeto",
+  "version": "1.0.0",
+  "description": "Bem vindo ao meu primeiro projeto de Integração de Dados ========================================================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luizrafa/primeironome.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luizrafa/primeironome/issues"
+  },
+  "homepage": "https://github.com/Luizrafa/primeironome#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-handlebars": "^6.0.6"
+  }
+}
